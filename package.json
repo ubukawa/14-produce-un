@@ -1,5 +1,5 @@
 {
-  "name": "11-produce",
+  "name": "14-produce-un",
   "version": "1.0.0",
   "description": "the eleventh prototype",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ubukawa/11-produce.git"
+    "url": "git+https://github.com/ubukawa/14-produce-un.git"
   },
   "keywords": [],
   "author": "",
