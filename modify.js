@@ -336,7 +336,7 @@ const lut = {
   },
   un_minusca_pois: f => {
     f.tippecanoe = {
-      layer: 'poi',
+      layer: 'poi_minusca',
       minzoom: 7,
       maxzoom: 15
     }
