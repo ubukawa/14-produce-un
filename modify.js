@@ -59,7 +59,7 @@ const lut = {
   un_mission_lc_ls: f => {
     f.tippecanoe = {
       layer: 'landcover',
-      minzoom: 9,
+      minzoom: 10,
       maxzoom: 15
     }
     return f
